@@ -5,3 +5,6 @@ Theme Author: Asma Nouman
 Template: divi
 Version: 1.0.0 
 */
+.et_pb_image_4 .et_pb_image_wrap img.roundimg{
+border-radius:50%;
+}
